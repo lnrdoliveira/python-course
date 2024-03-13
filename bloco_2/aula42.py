@@ -11,8 +11,6 @@ lista = []
 for numero in range(10):
     lista.append(numero)
 
-#print(lista)
-
 
 lista = [
     #Dentro deste for está, ele está fazendo a lógica da linha abaixo
