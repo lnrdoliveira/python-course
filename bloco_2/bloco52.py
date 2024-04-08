@@ -6,7 +6,7 @@
 
 try:
     a = 18
-    #b = 0
+    b = 0
     print('linha 1')
     c = a / b
 except ZeroDivisionError:
