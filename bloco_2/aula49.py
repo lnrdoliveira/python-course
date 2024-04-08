@@ -11,3 +11,6 @@ print(lista)
 print(generator)
 print(sys.getsizeof(lista))
 print(sys.getsizeof(generator))
+
+for n in generator:
+    print(n)
